@@ -8,3 +8,5 @@ tessdata
 *.avi
 *.txt
 *.csv
+*.h5
+*.jpg
